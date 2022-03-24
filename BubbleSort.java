@@ -25,6 +25,8 @@ public class BubbleSort {
            }
        }
        PrintArray(a);
+       sc.close();
     }
+    
     
 }

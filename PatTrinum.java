@@ -10,5 +10,5 @@ public class PatTrinum {
             }
             System.out.println();
         }
-    }
+        sc.close(); }
 }

@@ -13,5 +13,5 @@ public class PatInvert180 {
             }
             System.out.println();
         }
-    }
+        sc.close();  }
 }

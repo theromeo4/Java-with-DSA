@@ -14,6 +14,6 @@ public class ProductOfTwoNumber {
 
         System.out.println("Multiplication of "+n +" * "+m +" is: "+ Multiply(n,m));
 
-    }
+        sc.close();  }
 }
 

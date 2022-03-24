@@ -8,6 +8,6 @@ public class Sum {
              sum = sum + i;
         }
         System.out.println("Sum of "+n+" number is "+sum);
-
+        sc.close();
     }
 }

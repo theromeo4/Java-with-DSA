@@ -20,6 +20,6 @@ public class Grade {
                 }   
             }
         } while (n != 0);
-
+        sc.close();
     }
 }

@@ -1,6 +1,4 @@
 import java.util.*;
-
-import javax.lang.model.util.ElementScanner6;
 public class Greetings {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -16,5 +14,5 @@ public class Greetings {
         }else{
             System.out.println("Please enter valid number");
         }
-    }
+        sc.close(); }
 }

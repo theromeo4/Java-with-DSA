@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 public class PatDiamond {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -27,5 +27,5 @@ public class PatDiamond {
             }*/
             System.out.println();
         }
-    }    
+        sc.close(); }    
 }

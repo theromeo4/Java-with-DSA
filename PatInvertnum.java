@@ -10,5 +10,5 @@ public class PatInvertnum {
             }
             System.out.println();
         }
-    }
+        sc.close(); }
 }

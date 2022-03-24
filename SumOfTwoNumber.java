@@ -12,6 +12,6 @@ public class SumOfTwoNumber {
         int m = sc.nextInt();
 
         Sum(n, m);
-
+        sc.close();
     }
 }

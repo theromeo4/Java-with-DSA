@@ -15,6 +15,6 @@ public class PatHolowRect {
                 }
             }
             System.out.println(" ");
-        }
+        }sc.close();
     }
 }

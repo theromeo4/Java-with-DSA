@@ -21,6 +21,6 @@ public class Factorial {
         int n = sc.nextInt();
 
         CalculateFactorial(n);
-
+        sc.close();
     }
 }

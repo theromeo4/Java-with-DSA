@@ -10,5 +10,5 @@ public class PatTri {
             }
             System.out.println();
         }
-    }
+        sc.close();}
 }

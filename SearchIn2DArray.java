@@ -8,6 +8,7 @@ public class SearchIn2DArray {
         System.out.print("Enter Cols of Array: ");
         int cols = sc.nextInt();
         int number[][] = new int[rows][cols];
+        sc.close();
         System.out.print("Enter Elements of Array: ");
         for (int i = 0; i < rows; i++) {
             for(int j =0; j < cols;j++){
@@ -27,5 +28,6 @@ public class SearchIn2DArray {
         }
         System.out.println(x+" is not Found ");
 
+            
     }
 }

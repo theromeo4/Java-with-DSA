@@ -9,5 +9,5 @@ public class PrintName {
         System.out.print("Enter Your Name: ");
         String name = sc.next();
         myName(name);
-    }
+        sc.close();   }
 }

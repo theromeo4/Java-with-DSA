@@ -16,5 +16,5 @@ public class PatSolidRoh {
             }
             System.out.println();
         }
-    }
+        sc.close(); }
 }

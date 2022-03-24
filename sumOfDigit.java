@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class sumOfDigit {
     int sum=0;
 	public int sumOfDigits(int number){

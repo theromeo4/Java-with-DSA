@@ -13,6 +13,7 @@ public class Even_odd {
             System.out.println(n +" is Odd numbar");
 
         }
+        sc.close();
     }
 
 }

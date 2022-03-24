@@ -12,7 +12,7 @@ public class Substring {
                 userName += email.charAt(i);
             }
         }
-        System.out.println("Your Username is: "+userName);
+        System.out.println("Your Username is: "+userName);sc.close();
     }
 }
 

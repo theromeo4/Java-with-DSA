@@ -11,5 +11,5 @@ class PatRect{
             }
             System.out.println(" ");
         }
-    }
+        sc.close();  }
 }

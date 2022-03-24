@@ -28,5 +28,5 @@ public class PatButterfly {
             }
             System.out.println();
         }
-    }
+        sc.close();}
 }

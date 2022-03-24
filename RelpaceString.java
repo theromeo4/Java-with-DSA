@@ -13,5 +13,5 @@ public class RelpaceString {
             }
         }
         System.out.println(result);
-    }
+        sc.close();}
 }

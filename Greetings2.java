@@ -17,6 +17,6 @@ public class Greetings2 {
             default:
                 System.out.println("Enter valid number");
                 break;
-        }
+        }sc.close();
     }
 }

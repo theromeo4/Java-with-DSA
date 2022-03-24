@@ -8,5 +8,6 @@ public class All_Even {
                 System.out.println(i);
             }
         }
+        sc.close();
     }
 }

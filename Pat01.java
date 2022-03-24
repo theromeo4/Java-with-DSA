@@ -14,5 +14,5 @@ public class Pat01 {
             }
             System.out.println();
         }
-    }
+        sc.close();}
 }

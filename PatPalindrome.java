@@ -18,5 +18,5 @@ public class PatPalindrome {
             System.out.println();
         }
         
-    }    
+        sc.close();  }    
 }

@@ -22,5 +22,5 @@ public class Prime {
             System.out.println("Not a Prime Number");
 
         }
-    }
+        sc.close(); }
 }

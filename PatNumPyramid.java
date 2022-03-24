@@ -13,5 +13,5 @@ public class PatNumPyramid {
             }
             System.out.println();
         }
-    }    
+        sc.close();}    
 }

@@ -10,6 +10,6 @@ public class Floyed {
                 num++;
             }
             System.out.println();
-        }
+        }sc.close();
     }
 }

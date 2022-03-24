@@ -1,4 +1,4 @@
-import java.io.*;
+
 public class Calculator {
     public double findAverage(double num1,double num2,double num3) {
          double avg = (double)(num1+num2+num3)/3;

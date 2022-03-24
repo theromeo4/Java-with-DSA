@@ -28,6 +28,6 @@ public class SelectionSort {
             arr[smallest] = arr[i];
             arr[i] = temp;
         }
-        PrintArray(arr); 
+        PrintArray(arr); sc.close();
     }
 }
